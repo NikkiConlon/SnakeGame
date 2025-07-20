@@ -24,7 +24,10 @@ A classic Snake Game built in Java using Swing.
 ![Gameplay](https://github.com/user-attachments/assets/26b244d3-c4e0-483d-a814-9b567426de19)
 
 ### Game Over Screen
-![Pause Menu](https://github.com/user-attachments/assets/f362bc29-ac5c-418b-87ce-3cefeaed3064)
+![Game Over](https://github.com/user-attachments/assets/f362bc29-ac5c-418b-87ce-3cefeaed3064)
 
 ### Pause Screen
-![Game Over](https://github.com/user-attachments/assets/1531a7aa-c541-4760-ae4f-ecc66bdaa486)
+![Pause Screen](https://github.com/user-attachments/assets/1531a7aa-c541-4760-ae4f-ecc66bdaa486)
+
+### High Score Screen
+![High Score Screen](https://github.com/user-attachments/assets/2de30e89-691a-46a5-8732-3b49a335c004)
